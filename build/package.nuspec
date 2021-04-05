@@ -3,7 +3,6 @@
     <metadata>
         <id>AspNetCore.Utilities.Aws</id>
         <version>1.0.0</version>
-        <description>AspNetCore.Utilities.Aws</description>
         <authors>Singtone Contributors</authors>
 		<language>en-US</language>
 		<license type="expression">MIT</license>
