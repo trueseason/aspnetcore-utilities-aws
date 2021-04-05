@@ -6,6 +6,9 @@
         <description>AspNetCore.Utilities.Aws</description>
         <authors>Singtone Contributors</authors>
 		<language>en-US</language>
+		<license type="expression">MIT</license>
+		<repository type="git" url="https://github.com/trueseason/aspnetcore-utilities-aws.git" />
+		<description>A collection of some useful helper functions and extensions for AWS Service .NET Core.</description>
 		<dependencies>
 			<group targetFramework="netcoreapp3.1">
 				<dependency id="Amazon.Lambda.AspNetCoreServer" version="5.3.1" />

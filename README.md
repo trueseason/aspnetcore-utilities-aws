@@ -1,6 +1,6 @@
 # AspNetCore.Utilities.Aws
 
-This repository is a collection of some common useful helper functionsand extensions for AWS Service with ASP.NET Core.
+This repository is a collection of some useful helper functions and extensions for AWS Service .NET Core.
 
 **ASP.NET Core** versions supported: 3.1, 3.0 and 2.2
 
